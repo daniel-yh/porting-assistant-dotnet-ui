@@ -110,6 +110,7 @@ const NugetPackageTableInternal: React.FC = () => {
 
   const ruleContributeButton = (
     <Button
+      id='rule-contribution-btn'
       disabled={!canSuggestRule()}
       //disabled={false}
       variant="normal"
