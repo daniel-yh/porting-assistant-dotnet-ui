@@ -12,7 +12,7 @@
 			<NoWarn>NU1701</NoWarn>
 		</PackageReference>
 		<PackageReference Include="PortingAssistant.Client.Client" Version="1.10.2" />
-		<PackageReference Include="PortingAssistant.Client.Telemetry" Version="1.10.2" />
+		<PackageReference Include="PortingAssistant.Client.Telemetry" Version="2.3.9" />
 	</ItemGroup>
 
 </Project>
